@@ -1,5 +1,5 @@
 ### Hi there 👋
-<script src="https://www.hackthebox.eu/badge/223026"></script>
+[<script src="https://www.hackthebox.eu/badge/223026"></script>](#)
 
 <!--
 **gbyx3/gbyx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
