@@ -2,7 +2,7 @@
 
 Working on my multilang ad-hoc coding and Windows skills
 
-[<img src="http://www.hackthebox.eu/badge/image/223026">](/#)
+[<img src="http://www.hackthebox.eu/badge/image/223026">](#)
 
 *:wq*
 
