@@ -1,8 +1,5 @@
 ### Pz!
-> Auth: Gustav Alerby \
-> Date: 2021-04-20 \
-
-### Hobby hacker
+> Gustav Alerby
 [<img src="http://www.hackthebox.eu/badge/image/223026">](#)
 
 
