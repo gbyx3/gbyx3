@@ -4,7 +4,7 @@ Working on my multilang ad-hoc coding and Windows skills
 
 [<img src="http://www.hackthebox.eu/badge/image/223026">](/#)
 
-:wq
+*:wq*
 
 <!--
 **gbyx3/gbyx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
