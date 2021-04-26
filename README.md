@@ -1,7 +1,6 @@
 ### Pz!
 
 \- Working on my multilang ad-hoc coding and Windows skills  
-
 [<img align="right" src="http://www.hackthebox.eu/badge/image/223026">](#)
 
 <!--
