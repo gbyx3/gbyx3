@@ -3,6 +3,7 @@
 \- Working on my multilang ad-hoc coding and Windows skills  
 
 [<img align="right" src="http://www.hackthebox.eu/badge/image/223026">](#)
+[<img width="220" height="50" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbyx3&theme=radical&layout=compact&hide_border=true">](#)
 
 <!--
 **gbyx3/gbyx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
