@@ -6,7 +6,9 @@
 <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbyx3&theme=merko&layout=compact&hide_border=true" width=220>
 <br>
+<br>
 <img src="http://www.hackthebox.eu/badge/image/223026">
+<br>
 </p>
 
 <!--
