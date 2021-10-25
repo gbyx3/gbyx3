@@ -2,9 +2,12 @@
 
 \- Working on my multilang ad-hoc coding and Windows skills  
 
-[<img align="right" src="http://www.hackthebox.eu/badge/image/223026">](#)
-<br/>
-[<img width="220" height="50" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbyx3&theme=radical&layout=compact&hide_border=true">](#)
+<p align="right">
+[<img src="http://www.hackthebox.eu/badge/image/223026">](#)
+<br>
+[<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbyx3&theme=merko&layout=compact&hide_border=true" width=200>](#)
+<br>
+</p>
 
 <!--
 **gbyx3/gbyx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
