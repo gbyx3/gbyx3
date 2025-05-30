@@ -1,7 +1,7 @@
 ## Pz!
 
 \- Working on my multilang ad-hoc coding and Windows skills  
-\- Jesus <img src="https://pbs.twimg.com/profile_images/1769430779845611520/lIgjSJGU_400x400.jpg" alt="Jesus" width="24" align="middle"> take the wheel
+\- Jesus <img src="https://pbs.twimg.com/profile_images/1769430779845611520/lIgjSJGU_400x400.jpg" alt="Jesus" width="24" align="middle"> take the wheel :wq!
 <p align="right">
 <br>
 <!--<img src="http://www.hackthebox.eu/badge/image/223026">
